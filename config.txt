@@ -1,0 +1,5 @@
+http://standards.ieee.org/develop/regauth/oui/oui.txt
+oui.txt
+700
+!Example allow MAC address
+1111.2222.3333
